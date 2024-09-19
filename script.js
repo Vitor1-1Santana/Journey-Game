@@ -9,3 +9,4 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+//Foi o Vitor que fez, né Seidy?
